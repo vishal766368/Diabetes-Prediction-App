@@ -4,7 +4,7 @@
 This repository features a machine learning application built with **Streamlit** that predicts the probability of diabetes using the **SVM (Support Vector Machine)** algorithm.
 
 ## 🚀 Live Application
-[**Click here to launch the Streamlit App**](https://diabetes-prediction-by-krishna.streamlit.app/)
+[**Click here to launch the Streamlit App**](https://diabetes-prediction-app-vishalll.streamlit.app)
 
 ## 🖥️ Application Preview
 *If the images below do not load, you can view them directly in the repository files.*
